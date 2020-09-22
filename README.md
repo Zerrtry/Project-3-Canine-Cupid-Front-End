@@ -1,7 +1,5 @@
 # Front-End
 
-Quick link: http://canine-cupid.s3-website.us-east-2.amazonaws.com/
-
 'Canine Cupid' app.
 Submitted on September 15th 2020 during Northwestern FULL STACK FLEX coding bootcamp
 Developed by a Team of 5 developers - Isha Bali, Dmitrii Zverev, Logan McCann, Carlos Reyes, Julianne Bainter
